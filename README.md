@@ -1,2 +1,2 @@
-# school-management
-coppy work from  friends
+# payment
+ruby on rails application to practice payment system
